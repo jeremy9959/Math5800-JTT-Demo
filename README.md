@@ -17,7 +17,7 @@ somewhat old (2002) PNAS article on community detection but it showed up in my s
 and it has preprogrammed functions for some of the common community detection methods so that will make my life easier,
 at least to start.
 
-- [How to Scrape Tweets from Twitter](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1)
+- [How to Scrape Tweets from Twitter](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1).  This is a blog post about how to use tweepy.
 
 - [Get and work with twitter data in python using Tweepy](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)  This is a lesson from a collection of open-source earth science projects.  It explains how to use twitter to look for people tweeting about wildfires but it has a lot of code examples explaining how to get information out of twitter.
 
