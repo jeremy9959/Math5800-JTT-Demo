@@ -25,3 +25,5 @@ at least to start.
 called [An information flow model for conflict and fission in small groups](https://www.jstor.org/stable/3629752?seq=1). This was basically the start of using mathematical graph theory and computers in this type of social science problem. Note that the link
 is to a jstor article so requires permission to access.
 
+- [Ferenc Beres GitHub Site](https://github.com/ferencberes).  I found Ferenc Beres by looking in github for people studying twitter.
+He is a PhD student in Hungary who has done a lot of work on machine learning algorithms and twitter, and I think I can learn a lot from his code and publications. 
