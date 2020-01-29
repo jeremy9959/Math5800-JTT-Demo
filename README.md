@@ -27,3 +27,5 @@ is to a jstor article so requires permission to access.
 
 - [Ferenc Beres GitHub Site](https://github.com/ferencberes).  I found Ferenc Beres by looking in github for people studying twitter.
 He is a PhD student in Hungary who has done a lot of work on machine learning algorithms and twitter, and I think I can learn a lot from his code and publications. 
+
+$$\int f(x)=3$$
